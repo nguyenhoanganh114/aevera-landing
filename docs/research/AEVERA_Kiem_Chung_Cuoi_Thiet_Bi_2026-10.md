@@ -161,7 +161,7 @@ Câu trả lời mạnh nhất cho Normatec là **"tiết kiệm phút KTV"**. C
 - **Cùng KTV, cùng quy trình tay, cùng giá.** Chỉ khác nhiệt.
 - **Đo sau mỗi buổi:** điểm hài lòng chung 0–10 · điểm nhẹ nhõm 0–10 · "có muốn quay lại không" · *"Nếu buổi này có thêm phần làm ấm, anh/chị có trả thêm X không?"* (một mức X cố định, có/không).
 - **Đo hành vi:** % quay lại trả tiền trong 21 ngày, tách theo ngày bật/tắt ở buổi đầu.
-- **Ngưỡng:** có ích khi điểm hài lòng chênh **≥ 1/10** *và* **≥ 30%** người được hỏi đồng ý trả thêm X. Dưới mức đó thì nhiệt chỉ là tiện nghi, không phải lý do mua giường cát.
+- **Ngưỡng:** ~~"≥ 1/10 điểm và ≥ 30% trả thêm"~~ — **rút lại 03/10/2026**: không có cơ sở khoa học hay kinh tế. Thay bằng tiêu chí đã chốt — nhiệt chỉ có ích khi `N₉₀(nhiệt) × (c + Δp − k − D) > N₉₀(không nhiệt) × c` (lợi nhuận đóng góp 90 ngày trên một khách mới). Điểm hài lòng và câu hỏi "trả thêm X" chỉ là tín hiệu phụ. Xem `Fitkang_S116_Tham_Dinh_Cuoi_2026-10.md`, mục 7.1.
 - **An toàn:** hỏi trong phiếu sàng lọc về **giảm cảm giác** (sau tai biến, tiểu đường), đang sốt/viêm, có thai → **tắt nhiệt** với các khách này. Giữ lớp ga giữa da và tấm nhiệt.
 
 ---
