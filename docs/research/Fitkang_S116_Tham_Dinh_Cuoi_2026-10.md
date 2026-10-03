@@ -53,6 +53,23 @@ status: B — CHƯA MUA, TIẾP TỤC KIỂM CHỨNG
 | **"Có LED + PEMF + đá Bian" là lợi thế** | Phía bảo vệ / hồ sơ ban đầu | **Rút lại** — mỗi tính năng phải tự chứng minh |
 | **Ngưỡng "+1/10 điểm" và "30% khách trả thêm"** | **Claude, vòng trước** | **Rút lại** — không có cơ sở khoa học hay kinh tế. Thay bằng ngưỡng xây từ lợi nhuận đóng góp 90 ngày (mục 7) |
 
+**🔒 Khoá:** các con số trên **không được dùng lại như dữ liệu** trong bất kỳ báo cáo nào sau này.
+
+### 0.3. Khoá vai trò của từng thành phần (03/10/2026)
+
+**Nguyên tắc:** *chưa chứng minh ≠ sai.* LED chưa chứng minh hiệu quả không có nghĩa LED vô dụng; PEMF chưa có dữ liệu không có nghĩa PEMF không tác dụng; đá Bian chưa có bằng chứng riêng không có nghĩa là không có giá trị. Kết luận duy nhất được phép: **không đủ bằng chứng để dùng tính năng đó làm lý do mua.** Thiếu bằng chứng hiệu quả **không bị trừ điểm**, nhưng cũng **không được cộng giá trị thương mại**. Số lượng tính năng **không phải lợi thế**.
+
+| Thành phần | Vai trò hiện tại |
+|---|---|
+| Nhiệt | Giả thuyết giá trị chính cần test |
+| Vòm/cocoon | Giả thuyết giá trị thứ hai cần test |
+| Đá Bian | Trải nghiệm/chất liệu/câu chuyện — chưa coi là lợi ích sức khoẻ |
+| LED | Không phải lý do mua; chỉ kiểm an toàn, độ bền, khả năng tắt |
+| PEMF | Không phải lý do mua; chỉ kiểm thông số và an toàn |
+| Nghi thức AEVÉRA | Nằm ở quy trình, không phụ thuộc máy |
+
+Chỉ thay đổi bảng này khi có **dữ liệu mới**.
+
 ---
 
 ## 1. KHÁCH THỰC SỰ NHẬN ĐƯỢC GÌ TỪ TỪNG THÀNH PHẦN
@@ -100,7 +117,11 @@ Giả thuyết **cocoon:** khách trả tiền cho cảm giác riêng tư, đư�
 
 ## 4. BỐN CỔNG BẮT BUỘC — CHECKLIST CHÍNH THỨC
 
+> **Đây là yêu cầu thẩm định nội bộ của AEVÉRA, không phải kết luận pháp lý.** AEVÉRA yêu cầu bộ hồ sơ này trước khi xem xét mua, để chứng minh cấu hình sản phẩm phù hợp và giảm rủi ro tuân thủ. **Tài liệu nào là nghĩa vụ pháp lý bắt buộc** (CE, LVD, EMC, RoHS, IEC 62471, MDR, Annex XVI…) phải do chuyên gia phù hợp xác nhận theo phân loại sản phẩm và thị trường. "DỪNG" và "LOẠI" trong các bảng dưới nghĩa là **AEVÉRA không tiếp tục xem xét**, không có nghĩa sản phẩm vi phạm pháp luật.
+
 Mỗi cổng **ĐẠT** khi mọi dòng "bắt buộc" có tài liệu 🟢 (mục 8). Một dòng 🔴 ở cổng nào = **DỪNG** ở cổng đó.
+
+**Hai thời điểm kiểm:** phần lớn dòng phải đạt **trước khi nhận máy thử**. Các dòng đánh dấu ⏱ có thể đạt bằng **phép đo của chính AEVÉRA trên máy thử, trước khi bất kỳ khách nào dùng** (nếu Fitkang không có số đo).
 
 ### GATE 1 — Pháp lý / hồ sơ
 
@@ -110,7 +131,7 @@ Mỗi cổng **ĐẠT** khi mọi dòng "bắt buộc" có tài liệu 🟢 (m�
 | 1.2 | Báo cáo thử nghiệm **LVD** (EN 60335-1 + phần 2 phù hợp) của đúng model/cấu hình | ✅ | DỪNG |
 | 1.3 | Báo cáo **EMC** của đúng model/cấu hình | ✅ | DỪNG |
 | 1.4 | Phòng thử nghiệm có năng lực phù hợp (tên, số công nhận) | ✅ | 🟠 → cần chuyên gia CE xác nhận |
-| 1.5 | **IEC 62471** (an toàn quang sinh học) cho mô‑đun LED, **hoặc** tài liệu lý giải vì sao không áp dụng | ✅ | DỪNG nếu LED không tắt được |
+| 1.5 | **IEC 62471** (an toàn quang sinh học) cho mô‑đun LED, **hoặc** tài liệu lý giải vì sao không áp dụng | ✅ nếu LED sẽ được bật; nếu LED tắt được và AEVÉRA **không bao giờ bật** → không chặn, nhưng vẫn hỏi | Thiếu **và** LED không tắt được → DỪNG |
 | 1.6 | RoHS cho đúng model | ✅ | DỪNG |
 | 1.7 | Manual chính thức (EN), nhãn/nameplate, ảnh serial | ✅ | DỪNG |
 | 1.8 | Ngày hiệu lực hồ sơ; báo cáo có áp dụng cho bản sản xuất hiện tại không | ✅ | 🔴 nếu hết hiệu lực |
@@ -121,7 +142,7 @@ Mỗi cổng **ĐẠT** khi mọi dòng "bắt buộc" có tài liệu 🟢 (m�
 
 | # | Yêu cầu | Bắt buộc? |
 |---|---|---|
-| 2.1 | Nhiệt độ cài đặt, **nhiệt độ bề mặt đo thực** tại các điểm tiếp xúc, nhiệt độ tối đa, sai số | ✅ |
+| 2.1 | Nhiệt độ cài đặt, **nhiệt độ bề mặt đo thực** tại các điểm tiếp xúc, nhiệt độ tối đa, sai số | ✅ ⏱ |
 | 2.2 | Bảo vệ quá nhiệt độc lập (cầu chì nhiệt/thermostat thứ cấp) | ✅ |
 | 2.3 | Timer, tự ngắt, thời gian tối đa không vượt được | ✅ |
 | 2.4 | LED: nhóm rủi ro theo IEC 62471, khoảng cách tới mắt, khuyến cáo bảo vệ mắt | ✅ nếu LED bật |
@@ -137,7 +158,7 @@ Mỗi cổng **ĐẠT** khi mọi dòng "bắt buộc" có tài liệu 🟢 (m�
 | 3.2 | Danh sách chất tẩy/khử khuẩn được phép (tên hoạt chất, nồng độ, pH) cho **đá**, **gỗ**, **bề mặt LED** | ✅ |
 | 3.3 | Vật liệu đá: thành phần, độ xốp/hút nước, khả năng chịu hoá chất | ✅ |
 | 3.4 | Xử lý mồ hôi, dịch cơ thể; đá có tháo rời để làm sạch không | ✅ |
-| 3.5 | Thời gian chuẩn bị và vệ sinh giữa khách (phút) | ✅ |
+| 3.5 | Thời gian chuẩn bị (gồm làm nóng trước) và vệ sinh giữa khách (phút) | ✅ ⏱ |
 | 3.6 | Nếu có chức năng xông/hấp (tin rao gọi là "fumigation cabin") — nước, tồn ẩm, nấm mốc | ✅ nếu có |
 
 ### GATE 4 — Độ bền thương mại
@@ -155,9 +176,11 @@ Mỗi cổng **ĐẠT** khi mọi dòng "bắt buộc" có tài liệu 🟢 (m�
 
 | Nếu Fitkang trả lời… | Hệ quả |
 |---|---|
-| LED **và/hoặc** PEMF **không tắt độc lập** được | Hạ mạnh S-116; ưu tiên vòm FIR đơn giản cùng nhà máy |
-| Không có DoC/LVD/EMC cho đúng model | **A — LOẠI** |
-| Tài liệu đi kèm chứa tuyên bố y tế (chữa đau, giảm viêm, lành vết thương, terahertz chữa bệnh…) và không có bản tài liệu sạch | **A — LOẠI** cho Việt Nam (mâu thuẫn ranh giới 9623); cho EU/HU → chuyên gia MDR |
+| Nhiệt chạy riêng được, LED và PEMF đều tắt độc lập được | Tiếp tục |
+| **Một** trong LED/PEMF không tắt độc lập được | **Rủi ro lớn** — ghi nhận, tiếp tục kiểm các cổng còn lại |
+| **Cả hai** không tắt độc lập được | **Ưu tiên mạnh vòm FIR đơn giản cùng nhà máy.** Không tự động loại S-116 nếu vẫn còn một lý do thương mại đủ mạnh (mục 7.4) |
+| Không cung cấp được DoC/LVD/EMC cho đúng model | **A — LOẠI** theo quy tắc nội bộ (không chứng minh được cấu hình phù hợp). *Không* phải kết luận rằng sản phẩm vi phạm pháp luật |
+| Tài liệu đi kèm chứa tuyên bố y tế (chữa đau, giảm viêm, lành vết thương, chữa bệnh…) và không có bản tài liệu sạch | **A — LOẠI** cho Việt Nam theo quy tắc nội bộ (mâu thuẫn ranh giới 9623 đã chốt); EU/HU → chuyên gia MDR đánh giá |
 | Không có SOP vệ sinh, đá không tháo rời và không chịu được chất khử khuẩn | Bỏ phương án có đá; nếu đá là cố định → LOẠI S-116 |
 
 ---
@@ -189,7 +212,7 @@ Mỗi cổng **ĐẠT** khi mọi dòng "bắt buộc" có tài liệu 🟢 (m�
 |---|---|---|
 | EU: "có LED/PEMF = thiết bị y tế"? | **Không** tự động. MDR phụ thuộc mục đích NSX công bố. Annex XVI (phần ánh sáng cường độ cao) nhắm vào thiết bị **điều trị da** [Dữ liệu: Quy định 2022/2346] | Mục đích công bố của S-116; LED S-116 có thuộc "cường độ cao" không → **CẦN CHUYÊN GIA CE/MDR** |
 | EU: "CE trên website = được dùng"? | **Không.** Phải có DoC + báo cáo cho đúng model/cấu hình | Toàn bộ — Gate 1 |
-| Nghĩa vụ nhà nhập khẩu (EU) | Nhà nhập khẩu phải kiểm DoC, nhãn, hướng dẫn và giữ hồ sơ; sản phẩm **gắn thương hiệu AEVÉRA** thì AEVÉRA bị coi là NSX | Chi tiết theo Hungary → **chuyên gia** |
+| Nghĩa vụ nhà nhập khẩu (EU) | [Suy luận — cần chuyên gia xác nhận] Theo khung chung của EU, nhà nhập khẩu thường có nghĩa vụ kiểm DoC, nhãn, hướng dẫn và lưu hồ sơ; đưa sản phẩm ra thị trường **dưới thương hiệu AEVÉRA** có thể khiến AEVÉRA gánh nghĩa vụ của nhà sản xuất → **không gắn nhãn AEVÉRA** ở giai đoạn này | Chi tiết theo Hungary → **chuyên gia** |
 | Dùng thương mại tại Hungary | — | **CHƯA BIẾT — CẦN CHUYÊN GIA** |
 | Việt Nam | Ranh giới 9623: không chẩn đoán, không chữa, không tên bệnh, không tuyên bố y tế. Bản thân LED/PEMF **không tự** biến cơ sở thành y tế; **tuyên bố công dụng và cách cung cấp dịch vụ** mới quyết định | Phân loại khi nhập (hàng điện hay TTBYT), hợp quy an toàn điện → hỏi đơn vị nhập khẩu |
 | Marketing của nhà máy | Một tin rao công khai gọi một sản phẩm S-116 là *"buồng xông hơi đá Bian quang tử hồng **terahertz** sóng siêu dài"* [NSX/nhà bán — **chưa xác nhận là trang của Fitkang**] | Manual/nhãn/brochure đi kèm có tuyên bố gì → RFV H |
@@ -207,7 +230,7 @@ Tiêu chí AEVÉRA đã chốt: **lợi nhuận đóng góp 90 ngày trên một
 | Ký hiệu | Nghĩa |
 |---|---|
 | `N₉₀` | Số buổi trả tiền của một khách mới trong 90 ngày |
-| `c` | Đóng góp mỗi buổi (doanh thu thuần sau thuế − chi phí biến đổi) |
+| `c` | Đóng góp mỗi buổi = doanh thu thuần − chi phí biến đổi. Doanh thu thuần = `G ÷ (1 + t_VAT) ÷ (1 + t_TTĐB)` nếu dịch vụ chịu thuế tiêu thụ đặc biệt — **thuế suất và việc có chịu TTĐB hay không: kế toán xác nhận** [CHƯA BIẾT] |
 | `Δp` | Phần giá cộng thêm thực thu được nhờ thiết bị (sau thuế; có thể = 0) |
 | `k` | Chi phí vận hành thêm mỗi buổi (điện, khăn, phút vệ sinh quy ra tiền) |
 | `D` | Chi phí sở hữu thiết bị phân bổ mỗi buổi (mục 7.2) |
@@ -218,6 +241,16 @@ Một phương án có thiết bị (X) chỉ thắng massage tay (A) khi:
 ```
 N₉₀(X) × (c + Δp − k − D)   >   N₉₀(A) × c
 ```
+
+**Kiểm trước khi dùng công thức:**
+
+| Kiểm | Vì sao |
+|---|---|
+| `c` đã trừ VAT **và** thuế tiêu thụ đặc biệt (nếu áp dụng) chưa? | Giá cũ 170k/350k/520k chưa qua bước này — không dùng |
+| Chi phí biến đổi có bị tính trùng không? (tour % KTV ở biến đổi thì lương cứng không được trừ thêm) | Lỗi trùng đã từng xảy ra ở v2.6 |
+| `D` có dựa trên tuổi thọ thương mại **NSX cam kết bằng văn bản** không? | Không có → không tính được `D` → không quyết định được |
+| `N₉₀` là số lượt **trả tiền thật** trong 90 ngày, không phải lượt dự kiến hay lượt hẹn | Ưu tiên dữ liệu: tiền thật > lượt quay lại thật > đặt lịch thật > ý định quay lại > điểm hài lòng |
+| `Δp` là phần **thực thu**, không phải câu trả lời "có sẵn sàng trả thêm" | Ý kiến chỉ là dữ liệu phụ |
 
 Thiết bị có thể thắng bằng **giá** (`Δp`), bằng **quay lại** (`N₉₀` tăng), hoặc cả hai. Không có cách thứ ba trong pilot. Phút KTV tiết kiệm được chưa thành tiền ở quy mô pilot — vòng trước, mục 2.3.
 
@@ -255,10 +288,27 @@ Mọi thành phần: **[CHƯA BIẾT]** — RFV mục K. Tuổi thọ thương m
 | 1 | Khách trả nhiều hơn | `Δp` thực thu | [CHƯA BIẾT] |
 | 2 | Khách quay lại nhiều hơn | `N₉₀` | [CHƯA BIẾT] |
 | 3 | KTV phục vụ nhiều khách hơn | Lượt/giờ KTV khi giờ KTV là nút thắt | Không áp dụng ở pilot; khoang kín có thể **ngược lại** |
-| 4 | Chi phí vận hành thấp hơn | `k` so với A | **Không** — chắc chắn cao hơn A [Suy luận] |
+| 4 | Chi phí vận hành thấp hơn | `k` so với A | Gần như không thể — thêm điện, vệ sinh, bảo trì so với tay [Suy luận] |
 | 5 | Khác biệt đủ tạo lợi thế thương mại | Lựa chọn của khách khi có cả B và C | [CHƯA BIẾT] |
 
 Không đạt dòng nào → **KHÔNG MUA**.
+
+### 7.5. Nếu S-116 là khoang kín (RFV A4–A5) — tính lại, không giả định tiết kiệm nhân công
+
+Khi KTV **không** massage thân người được trong lúc máy chạy, máy là một bước **tuần tự**:
+
+```
+Thời gian giường   T_giường = t_chuẩn bị (gồm làm nóng) + t_máy + t_tay + t_vệ sinh
+Phút KTV           m        = t_tay + phần chuẩn bị/vệ sinh do KTV làm
+                              + t_máy  NẾU KTV phải ở lại trông (không đi giường khác được)
+Lượt/ngày/giường   ≈ giờ mở cửa ÷ T_giường
+Doanh thu/giờ giường       = doanh thu thuần ÷ (T_giường / 60)
+Đóng góp/giờ KTV           = (c + Δp − k − D) ÷ (m / 60)
+```
+
+So với A (tay, cùng `t_tay`): S-116 **luôn làm `T_giường` dài hơn**. Nó chỉ không làm giảm đóng góp/giờ KTV nếu KTV đi phục vụ việc khác trong `t_máy` **và** việc đó có doanh thu. Ở quy mô pilot (1 KTV), điều kiện này nhiều khả năng không đạt [Suy luận]. Mọi giá trị `t_*`: **[CHƯA BIẾT — đo trên máy thử]**.
+
+**S-116 không được dùng để "cứu" cửa 30 hay 60 phút.** Cửa vào chọn trước, theo lợi nhuận đóng góp 90 ngày; thiết bị xét sau.
 
 ---
 
@@ -299,7 +349,7 @@ Không dòng ⚠️ nào được gọi là CHỐT.
 | Vệ sinh đá đạt yêu cầu thương mại | Chưa test | ⚠️ | RFV F + thử thực tế trên máy mẫu |
 | CE/DoC đúng model | Chưa có bản gốc | ⚠️ | RFV H1 |
 | LVD/EMC đúng cấu hình | Chưa có bản gốc | ⚠️ | RFV H2–H3 |
-| IEC 62471 phù hợp | Chưa xác minh | ⚠️ | RFV H4 |
+| IEC 62471 phù hợp | Chưa xác minh | ⚠️ | RFV C2 |
 | Timer/auto shut-off | Chưa xác minh | ⚠️ | RFV B5–B8 |
 | Chạy thương mại bền | Chưa xác minh | ⚠️ | RFV G |
 | Khách chịu trả tiền | Chưa có dữ liệu | ⚠️ | Công thức 7.1 — `Δp` |
@@ -311,7 +361,7 @@ Không dòng ⚠️ nào được gọi là CHỐT.
 ## 11. KẾT LUẬN — 5 CÂU
 
 1. **Điểm mạnh thật sự:** một nhà máy liên hệ được, giá chào thấp và có thể báo giá vòm FIR đơn giản để so trong cùng nhà máy. Thứ có khả năng tạo giá trị — **nhiệt + cảm giác nằm trong khoang** — là thứ duy nhất đáng test, và test được rẻ hơn mà không cần S-116.
-2. **Điểm yếu thật sự:** mọi thứ ngoài nhiệt (LED, PEMF, đá) chưa chứng minh được trên đúng cấu hình. Hồ sơ CE/LVD/EMC/62471, vệ sinh đá và độ bền thương mại đều chưa có. Thiết kế khoang có thể không cho làm tay đồng thời. Một tin rao công khai gắn sản phẩm với tuyên bố "terahertz".
+2. **Điểm yếu thật sự:** mọi thứ ngoài nhiệt (LED, PEMF, đá) chưa chứng minh được trên đúng cấu hình. Hồ sơ CE/LVD/EMC/62471, vệ sinh đá và độ bền thương mại đều chưa có. Thiết kế khoang có thể không cho làm tay đồng thời. Có một tin rao công khai chưa xác minh được là đúng Fitkang S-116 (không viết "Fitkang quảng cáo terahertz" cho tới khi xác minh nguồn).
 3. **Đã đánh giá quá mạnh và phải rút lại:** coi LED 660/850nm, PEMF và đá Bian là lợi thế. Cả các con số phản bác chưa đo (7–10 lần, 6–8%, 40–70%, LED chết, bỏng). Và **ngưỡng +1/10 & 30% của chính tôi** ở vòng trước.
 4. **Còn 6 cổng trước khi bỏ tiền:** 4 cổng kỹ thuật (pháp lý, an toàn, vệ sinh–vận hành, độ bền), cộng 2 cổng thị trường: **chọn xong cửa 30/60 phút**, và **nhiệt đơn giản cho kết quả dương** theo công thức 90 ngày. Ngoại lệ: được **mượn/thuê thử** ngay sau khi đạt 4 cổng kỹ thuật.
 5. **Nếu là tiền của AEVÉRA hôm nay: CHƯA MUA** — trạng thái **B**. Việc duy nhất làm ngay là gửi RFV cho Fitkang (chi phí ≈ 0), song song chuẩn bị phép thử nhiệt đơn giản trong pilot.
