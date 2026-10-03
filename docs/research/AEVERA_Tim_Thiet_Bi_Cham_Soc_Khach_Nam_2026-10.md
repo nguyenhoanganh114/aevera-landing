@@ -11,6 +11,8 @@ status: KẾT LUẬN ĐỂ RA QUYẾT ĐỊNH MUA MẪU — chưa phải CHỐT
 
 # AEVÉRA — TÌM THIẾT BỊ CHĂM SÓC KHÁCH NẰM (LÀM LẠI TỪ ĐẦU)
 
+> ⛔ **ĐÃ BỊ THAY THẾ MỘT PHẦN (03/10/2026).** Trạng thái quyết định ở Tóm tắt, Phần 5 và Phần 7 (**A — mua mẫu Normatec**) **không còn hiệu lực**. Trạng thái hiện hành: **B — CHƯA MUA**. Các bảng kinh tế dùng giá 170k/520k và điểm /100 **không được dùng để quyết định**. Xem [`AEVERA_Kiem_Chung_Cuoi_Thiet_Bi_2026-10.md`](AEVERA_Kiem_Chung_Cuoi_Thiet_Bi_2026-10.md).
+
 ## Nhãn dùng trong file
 
 **[Dữ liệu]** có nguồn xác minh · **[Giả định]** tham số mô hình (gồm số kế thừa từ hồ sơ AEVÉRA — chưa đo thật) · **[Suy luận]** tôi tính/suy ra, có thể sai · **[CHƯA BIẾT — CẦN TEST]** không đoán · **[NSX]** thông tin nhà sản xuất/nhà bán — *không phải bằng chứng*.
